@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI3MTk1YTE1NTdjYWI5NGU0NmZlYzUyMDgzZDNhMDhkYmYxNjUzMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/ke_nis" target="_blank">
+  <a href="https://t.me/ke_nis">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=NekoKot&style=flat-square&color=1bead9" height="28px" alt=""/>
@@ -19,7 +19,7 @@ My name is Kate. I am a junior frontend-developer.
 - :zap: In my free time, I solve JavaScript problems, learn React, and also go in for sports.
 - :sparkles: I like to create with my own hands what will be useful to others in the future. That is why I try to devote a lot of time to learning and practicing in front-end development.
 
-- :envelope: How to reach me: <strong>Click</strong> -->  <a href="https://t.me/ke_nis" target="_blank">
+- :envelope: How to reach me: <strong>Click</strong> -->  <a href="https://t.me/ke_nis">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjlmYzgyMmZjYmE2MmMzMzM5OWJhNDU5YWFiNWZmOGI1MzAyNDcyYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ya4eevXU490Iw/giphy.gif" height="30px" align="center" target="_blank" alt="Telegram"/>
   </a>
 
