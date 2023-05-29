@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=NekoKot&style=flat-square&color=1bead9" height="28px" alt=""/>
 </div>
 <h1 align="left">
-  Hey there
+  Hi guys
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRhMDE4Yjc0MTY3ODRlNDk0YjI1NGQzNTEzZDQ1NTllYTBjNjI5NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/hqgD6bocRHhEjamBPA/giphy.gif" width="120px"/>
 </h1>
 
