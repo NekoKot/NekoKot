@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About Me: 
 My name is Kate. I am a junior frontend-developer.
-- :desktop_computer: I’m working in a russian IT company. I create multi-page websites, landing pages, E-mail letters. I also work with "Tilda".
+- :desktop_computer: I create multi-page websites, landing pages, E-mail letters. I also work with "Tilda".
 
 - :zap: In my free time, I solve JavaScript problems, learn React, and also go in for sports.
 - :sparkles: I like to create with my own hands what will be useful to others in the future. That is why I try to devote a lot of time to learning and practicing in front-end development.
